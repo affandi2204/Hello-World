@@ -1,5 +1,5 @@
  Section #1
-	#1 : membuat directory repo 
+ #1 : membuat directory repo 
  #2 : masuk ke directory
  #3 : git init
  #4 : git status
