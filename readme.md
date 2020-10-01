@@ -60,5 +60,3 @@
  #58 : git remote
  #59 : git push origin master
  #60 : silahkan liat repo github
- 
-https://gist.github.com/Arsfiqball/a3e602951960274705976c3c2d2bf462
